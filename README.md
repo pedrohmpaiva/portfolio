@@ -16,7 +16,7 @@
 Confira meus projetos abaixo:
 
 * **Analisando dados do Airbnb:** https://bit.ly/3wWHBJI
-
+* **Detecção de Fraude em Cartões de Crédito** https://bit.ly/3k5IGJk
 
 ---
 
