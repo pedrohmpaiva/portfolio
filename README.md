@@ -10,7 +10,7 @@
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/pedro-henrique-paiva/)
-
+* [Medium](https://medium.com/@pedrohmpaiva)
 
 ## Projetos:
 Confira meus projetos abaixo:
