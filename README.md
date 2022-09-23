@@ -15,8 +15,10 @@
 ## Projetos:
 Confira meus projetos abaixo:
 
-* **Analisando dados do Airbnb:** https://bit.ly/3wWHBJI
+* **Churn Prediction para uma empresa de telecomunicações** https://bit.ly/3r1X4G5
 * **Detecção de Fraude em Cartões de Crédito** https://bit.ly/37DUxMf
+* **Analisando dados do Airbnb** https://bit.ly/3wWHBJI
+
 
 ---
 
