@@ -6,7 +6,7 @@
 
 # Pedro Henrique
 
-**Background in:** Computer Science, Python, Machine Learning.
+**Background in:** Computer Science, Python, Machine Learning, Data Analysis.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/pedro-henrique-paiva/)
